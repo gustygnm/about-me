@@ -11,12 +11,15 @@ I am a software developer looking for the opportunity to work in a fun and chall
 
 ### Connect with me:
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/-Gusti%20Ngurah%20Mertayasa-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Gmail" src="https://img.shields.io/badge/gusti.ngurah.mertayasa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img alt="Instagram" src="https://img.shields.io/badge/-gusty__g.n.m-red?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/-Gusti%20Ngurah%20Mertayasa-blue?&style=social&logo=linkedin&logoColor=blue"/>][linkedin]
+[<img alt="Gmail" src="https://img.shields.io/badge/gusti.ngurah.mertayasa@gmail.com-D14836?style=social&logo=gmail&logoColor=orange" />][email]
+[<img alt="Instagram" src="https://img.shields.io/badge/-gusty__g.n.m-red?&style=social&logo=Instagram&logoColor=red"/>][instagram]
 
 ### My best app: 
-[<img src="https://img.shields.io/badge/-Hutang%20Apps-blue?style=for-the-badge&logo=googleplay&logoColor=white"/>][app]
+  * **Hutang Apps:**
+    Merupakan sebuah aplikasi pencatatan Keuangan untuk memanage utang-piutang yang datanya tersimpan secara online (data tetap aman walau hp direset/hilang) tetapi dapat digunakan secara online maupun offline.<br>
+    **Download aplikasi Hutang Apps pada link berikut**<br>
+    [<img src="https://img.shields.io/badge/-Hutang%20Apps-blue?style=plastic&logo=googleplay&logoColor=white"/>][app]
 
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gustygnm alt=gustygnm /> </p>
