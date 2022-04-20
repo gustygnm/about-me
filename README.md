@@ -1,11 +1,7 @@
 ## Hello 👋, I am Gusti Ngurah Mertayasa
 ### Mobile Engineer
 
-A software engineering graduate who is seeking to find the opportunity to
-work in a fun and challenging working environment that will encourage
-him to improve and learn new and necessary skills as well as be motivated
-by the company to do his best for the sake of helping himself and the
-company advance in the software engineering industry.
+I am a software developer looking for the opportunity to work in a fun and challenging work environment that will encourage him to improve and learn new and necessary skills and be motivated by the company to do his best to help himself and the company progress in the software engineering industry.
 
 <!-- ![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png) -->
 
@@ -18,6 +14,9 @@ company advance in the software engineering industry.
 [<img alt="LinkedIn" src="https://img.shields.io/badge/-Gusti%20Ngurah%20Mertayasa-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Gmail" src="https://img.shields.io/badge/gusti.ngurah.mertayasa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 [<img alt="Instagram" src="https://img.shields.io/badge/-gusty__g.n.m-red?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+
+### My best app: 
+[<img src="https://img.shields.io/badge/-Hutang%20Apps-blue?style=for-the-badge&logo=googleplay&logoColor=white"/>][app]
 
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gustygnm alt=gustygnm /> </p>
@@ -34,3 +33,4 @@ company advance in the software engineering industry.
 [linkedin]: https://www.linkedin.com/in/gusti-ngurah-mertayasa/
 [email]: mailto:gusti.ngurah.mertayasa@gmail.com
 [cv]: https://drive.google.com/file/d/1uK1OU1uqPadITw9ydA1UetzXsOLtPIRd/view?usp=sharing
+[app]: https://play.google.com/store/apps/details?id=com.gnm.hutang
