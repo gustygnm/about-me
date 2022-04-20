@@ -9,6 +9,10 @@ company advance in the software engineering industry.
 
 <!-- ![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png) -->
 
+### My Curriculum Vitae:
+
+[<img src="https://img.shields.io/badge/-Curriculum%20Vitae-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>][cv]
+
 ### Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/-Gusti%20Ngurah%20Mertayasa-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
