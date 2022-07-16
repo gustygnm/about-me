@@ -29,7 +29,7 @@ I am a software developer looking for the opportunity to work in a fun and chall
 
 [![Gusti Ngurah Mertayasa github stats](https://github-readme-stats.vercel.app/api?username=gustygnm&show_icons=true&theme=blueberry)](https://github.com/gustygnm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustygnm&layout=compact&theme=blueberry)](https://github.com/gustygnm/Dummyapi-with-Flutter-Clean-Architecture)
+[![Flutter Clean Architecture](https://github-readme-stats.vercel.app/api/top-langs/?username=gustygnm&layout=compact&theme=blueberry)](https://github.com/gustygnm/Dummyapi-with-Flutter-Clean-Architecture)
 
 
 [instagram]: https://www.instagram.com/gusty_g.n.m
