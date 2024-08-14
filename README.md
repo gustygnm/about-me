@@ -1,7 +1,7 @@
 ## Hello 👋, I am Gusti Ngurah Mertayasa
 ### Mobile Engineer
 
-I am a software developer looking for the opportunity to work in a fun and challenging work environment that will encourage him to improve and learn new and necessary skills and be motivated by the company to do his best to help himself and the company progress in the software engineering industry.
+I am an experienced Mobile Engineer with over 5 years of dedication in creating innovative and user-focused applications. My expertise includes Flutter and Android (Java/Kotlin) development, with a strong track record of delivering efficient and user-friendly mobile solutions for various industries. Currently, I am looking for an opportunity to join a dynamic mobile development team where I can contribute to creating innovative and high-impact products. I am ready to take on new challenges and continue developing my skills in the ever-evolving world of mobile development.
 
 <!-- ![](https://github.com/Naufalazmi48/Naufalazmi48/blob/master/assets/images/Screenshot%20(695).png) -->
 
@@ -35,5 +35,5 @@ I am a software developer looking for the opportunity to work in a fun and chall
 [instagram]: https://www.instagram.com/gusty_g.n.m
 [linkedin]: https://www.linkedin.com/in/gusti-ngurah-mertayasa/
 [email]: mailto:gusti.ngurah.mertayasa@gmail.com
-[cv]: https://drive.google.com/file/d/1uK1OU1uqPadITw9ydA1UetzXsOLtPIRd/view?usp=sharing
+[cv]: https://drive.google.com/file/d/1u2VAJEjjXaVj3WcmsgS920YByj3yyVn6/view?usp=sharing
 [app]: https://play.google.com/store/apps/details?id=com.gnm.hutang
